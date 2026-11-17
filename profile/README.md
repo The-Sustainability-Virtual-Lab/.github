@@ -82,7 +82,7 @@ and loops back through the R-strategies to the business model and to production:
 ## Take part
 
 - **Contribute.** Pick an issue in a repository, or open a
-  [discussion](https://github.com/orgs/The-Sustainability-Virtual-Lab/discussions).
+  [discussion](https://github.com/The-Sustainability-Virtual-Lab/.github/discussions).
   Every skill is useful: modeling, LCA, business models, research, writing.
 - **Join a working group.** The
   [INCOSE Sustainability Working Group](https://www.incose.org/group/sustainability-working-group/)
